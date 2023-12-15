@@ -1,1 +1,1 @@
-# Linear Equations
+# Linear Equations Algorithm
