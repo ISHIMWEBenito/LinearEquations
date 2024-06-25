@@ -1,1 +1,1 @@
-# Linear Equations Algorithm
+# Linear Equations Algorithm | Code base
